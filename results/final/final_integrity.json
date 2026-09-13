@@ -1,0 +1,11 @@
+{
+  "n_runs": 3590,
+  "n_histories": 3590,
+  "n_local_search_runs": 475,
+  "n_graphs": 95,
+  "unique_run_keys": 3590,
+  "ar_min": 0.5615014518831901,
+  "ar_max": 0.9999999999995803,
+  "popt_min": 2.860577191599872e-63,
+  "popt_max": 0.9999999999995803
+}
