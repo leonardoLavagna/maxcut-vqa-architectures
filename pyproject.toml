@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "maxcut-vqa-architectures"
+version = "1.0.0"
+description = "Reproducible MaxCut benchmark comparing product-state, graph-agnostic, and QAOA variational architectures."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Leonardo Lavagna"},
+]
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "networkx>=3.2",
+  "pandas>=2.0",
+  "matplotlib>=3.8",
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
