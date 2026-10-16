@@ -2,8 +2,7 @@
 
 Code and frozen numerical results for the manuscript:
 
-> **From Problem-Structured QAOA to Problem-Agnostic Variational MaxCut Solvers: Representation, Redundancy, and Optimization Landscapes**  
-> Leonardo Lavagna and Massimo Panella
+**From Problem-Structured QAOA to Problem-Agnostic Variational MaxCut Solvers: Representation, Redundancy, and Optimization Landscapes**  
 
 ```
 @article{ams2026, 
