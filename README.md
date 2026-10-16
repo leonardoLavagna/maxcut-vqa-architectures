@@ -5,6 +5,21 @@ Code and frozen numerical results for the manuscript:
 > **From Problem-Structured QAOA to Problem-Agnostic Variational MaxCut Solvers: Representation, Redundancy, and Optimization Landscapes**  
 > Leonardo Lavagna and Massimo Panella
 
+```
+@article{ams2026, 
+title={cfbb8625a57543d08734c3f3c31e8e37}, 
+volume={3}, 
+ISSN={2982-2602},
+DOI={10.53941/ams.2026.100021}, 
+number={2}, 
+journal={Applied Mathematics and Statistics}, 
+publisher={Scilight Press}, 
+author={Lavagna, Leonardo and Panella, Massimo}, 
+year={2026}, 
+pages={21} 
+}
+```
+
 The repository contains only the material needed to inspect the implementation, verify the stored benchmark, regenerate the reported summaries and figures, or rerun the experiment from the frozen configuration.
 
 ## Structure
